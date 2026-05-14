@@ -1,11 +1,11 @@
-## Hi there 
+# Hi there
 
-<!--# Gourav Das
+Its Gourav Das
 
-BCA graduate from Assam. I got into building things with Python 
+BCA graduate from Assam. I got into building things with Python
 a while back and kind of never stopped.
 
-Most of my projects are AI-related — not because it's trendy, 
+Most of my projects are AI-related — not because it's trendy,
 but because it's actually useful to build with.
 
 ## What I work with
@@ -30,16 +30,3 @@ Built this during college — got an A on it.
 ## Currently
 Looking for junior Python / AI developer roles.
 Based in Assam, open to remote.
-**Whitedevil87/Whitedevil87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
